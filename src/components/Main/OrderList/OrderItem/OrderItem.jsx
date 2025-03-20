@@ -7,12 +7,12 @@ const OrderItem = (props) => {
     return (
     <article className="d-flex flex-row justify-content-between align-items-center border-bottom p-2">
         <div className="row gx-0 w-100">
-        <p className="m-0 col-6 col-md-5">{name}&nbsp;x{amount}</p>
-        <div className="d-flex flex-row gap-1 col-6 col-md-2 justify-content-end justify-content-md-center m-0">
-            <button type="button" onClick={() => removeOrder(id)} className="btn btn-danger">-</button>
-            <button type="button" onClick={() => addOrder(id)} className="btn btn-success">+</button>
+        <p className="m-0 col-5">{name}&nbsp;x{amount}</p>
+        <div className="d-flex flex-row gap-1 col-2 justify-content-center m-0">
+            <button type="button" onClick={() => removeOrder(id)} className="order-item__button btn btn-danger ">-</button>
+            <button type="button" onClick={() => addOrder(id)} className="order-item__button btn btn-success">+</button>
         </div>
-        <p className="m-0 mt-3 mt-md-0 fw-bold text-info col-12 col-md-5 text-md-end">SEK&nbsp;{price * amount}</p>
+        <p className="m-0 fw-bold text-info col-5 text-end">SEK&nbsp;{price * amount}</p>
         </div>
     </article>
 )

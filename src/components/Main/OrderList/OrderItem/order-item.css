@@ -1,3 +1,14 @@
 .order-item {
     
 }
+
+.order-item__button {
+    min-width: 30px;
+    min-height: 30px;
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
