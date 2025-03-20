@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://unsplash.com/photos/burger-with-lettuce-and-tomatoes-sc5sTPMrVfk",
+        "name": "Burger",
+        "description": "Juicy beef patty with fresh lettuce, tomato, cheese, and a soft sesame bun.",
+        "price": "89 SEK"
+    },
+    {
+        "image": "https://unsplash.com/photos/freshly-baked-delicious-pizza-on-wooden-table-original-italian-food-background-pizza-concept-gi2aexB9X3Y",
+        "name": "Pizza",
+        "description": "Classic Italian-style pizza with mozzarella, tomato sauce, and fresh basil.",
+        "price": "129 SEK"
+    },
+    {
+        "image": "https://unsplash.com/photos/cooked-fries-5I5aqYJrdso",
+        "name": "Fries",
+        "description": "Crispy golden French fries, lightly salted and served with ketchup.",
+        "price": "39 SEK"
+    },
+    {
+        "image": "https://unsplash.com/photos/coca-cola-glass-bottles-yZOfNnI2PA0",
+        "name": "Coca-Cola",
+        "description": "Refreshing and fizzy Coca-Cola, served chilled.",
+        "price": "25 SEK"
+    },
+    {
+        "image": "https://unsplash.com/photos/a-plate-of-sushi-li3tCzQptPE",
+        "name": "Sushi",
+        "description": "Fresh sushi assortment with salmon, tuna, and avocado, served with soy sauce and wasabi.",
+        "price": "149 SEK"
+    }
+]
