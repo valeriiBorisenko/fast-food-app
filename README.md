@@ -10,4 +10,11 @@
 3. Implement Quantity Management
 4. Implement Dark/Light Theme Toggle
 
+The topics covered in this task include:  
+
+✓ React Components  
+✓ State Management  
+✓ Event Management  
+✓ Styling with Bootstrap  
+
 ![image](./src/images/image.png)

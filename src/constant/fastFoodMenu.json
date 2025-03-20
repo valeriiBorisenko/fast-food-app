@@ -1,32 +1,44 @@
 [
     {
-        "image": "https://unsplash.com/photos/burger-with-lettuce-and-tomatoes-sc5sTPMrVfk",
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1299&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "name": "Burger",
         "description": "Juicy beef patty with fresh lettuce, tomato, cheese, and a soft sesame bun.",
-        "price": "89 SEK"
+        "price": 89
     },
     {
-        "image": "https://unsplash.com/photos/freshly-baked-delicious-pizza-on-wooden-table-original-italian-food-background-pizza-concept-gi2aexB9X3Y",
+        "id": 2,
+        "image": "https://plus.unsplash.com/premium_photo-1661762555601-47d088a26b50?q=80&w=1192&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "name": "Pizza",
         "description": "Classic Italian-style pizza with mozzarella, tomato sauce, and fresh basil.",
-        "price": "129 SEK"
+        "price": 129
     },
     {
-        "image": "https://unsplash.com/photos/cooked-fries-5I5aqYJrdso",
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "name": "Fries",
         "description": "Crispy golden French fries, lightly salted and served with ketchup.",
-        "price": "39 SEK"
+        "price": 39
     },
     {
-        "image": "https://unsplash.com/photos/coca-cola-glass-bottles-yZOfNnI2PA0",
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1561758033-48d52648ae8b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "name": "Coca-Cola",
         "description": "Refreshing and fizzy Coca-Cola, served chilled.",
-        "price": "25 SEK"
+        "price": 25
     },
     {
-        "image": "https://unsplash.com/photos/a-plate-of-sushi-li3tCzQptPE",
+        "id": 5,
+        "image": "https://plus.unsplash.com/premium_photo-1670333291474-cb722ca783a5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "name": "Sushi",
         "description": "Fresh sushi assortment with salmon, tuna, and avocado, served with soy sauce and wasabi.",
-        "price": "149 SEK"
+        "price": 149
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1638368593249-7cadb261e8b3?q=80&w=1982&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Hot Dog",
+        "description": "Classic hot dog with a grilled sausage, soft bun, ketchup, and mustard.",
+        "price": 49
     }
 ]
